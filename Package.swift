@@ -17,7 +17,6 @@ let package = Package(
 			name: "Mediasoup",
 			targets: [
 				"Mediasoup",
-				"WebRTC"
 			]
 		)
 	],
